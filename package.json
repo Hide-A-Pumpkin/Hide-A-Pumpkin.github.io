@@ -1,0 +1,24 @@
+{
+  "name": "hide-a-pumpkin.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hide-A-Pumpkin/Hide-A-Pumpkin.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hide-A-Pumpkin/Hide-A-Pumpkin.github.io/issues"
+  },
+  "homepage": "https://github.com/Hide-A-Pumpkin/Hide-A-Pumpkin.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.23"
+  }
+}
