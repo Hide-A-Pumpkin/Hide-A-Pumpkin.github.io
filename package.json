@@ -6,11 +6,12 @@
   "repository": "https://github.com/mtobeiyf/vuepress-homepage.git",
   "scripts": {
     "clean": "rimraf dist/*",
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
   },
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "vuepress": "^1.0.4"
   },
   "dependencies": {
