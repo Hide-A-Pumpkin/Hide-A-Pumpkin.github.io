@@ -4,10 +4,10 @@
 set -e
 
 # build
-npm run build
+npm run docs:build
 
 # navigate into the build output directory
-cd dist
+cd docs/.vuepress/dist
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
@@ -20,6 +20,6 @@ git commit -m 'deploy'
 git push -f git@github.com:HIDE-A-PUMPKIN/hide-a-pumpkin.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+# git push -f git@github.com:HIDE-A-PUMPKIN/hide-a-pumpkin.git main:gh-pages
 
 cd -
