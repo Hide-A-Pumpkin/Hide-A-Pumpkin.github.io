@@ -2,7 +2,7 @@ export const themeData = {
   "navbar": [
     {
       "text": "introduction",
-      "link": "/"
+      "link": "/intro"
     },
     {
       "text": "publication",
@@ -18,7 +18,7 @@ export const themeData = {
       ]
     }
   ],
-  "sidebar": "auto",
+  "sidebar": "none",
   "locales": {
     "/": {
       "selectLanguageName": "English"
@@ -45,17 +45,4 @@ export const themeData = {
   "backToHome": "Take me home",
   "openInNewWindow": "open in new window",
   "toggleDarkMode": "toggle dark mode"
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateThemeData) {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ themeData }) => {
-    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
-  })
 }
