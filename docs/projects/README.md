@@ -8,7 +8,7 @@ Here are some works of mine! :books:
 
 ## Projects
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
 **Human Computer Interaction Research Project**
 
  Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU
@@ -21,7 +21,7 @@ Here are some works of mine! :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/ctat.jpg" hideBorder=true>
 **Human Computer Interaction Intern**
 
   Vincent Aleven, Professor, Human-Computer Interaction Institute, CMU
@@ -33,7 +33,7 @@ Here are some works of mine! :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true>
 **Deep Learning Research Project**
 
   Yanwei Fu, Professor, School of Data Science, Fudan University
@@ -46,7 +46,7 @@ Here are some works of mine! :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/onelabeler.jpg" hideBorder=true>
 **Data Visualization Research Project**
 
   Siming Chen, Professor, School of Data Science, Fudan University
