@@ -17,7 +17,7 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
-git push -f git@github.com:HIDE-A-PUMPKIN/hide-a-pumpkin.github.io.git main
+git push -f git@github.com:HIDE-A-PUMPKIN/hide-a-pumpkin.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:HIDE-A-PUMPKIN/hide-a-pumpkin.git main:gh-pages
