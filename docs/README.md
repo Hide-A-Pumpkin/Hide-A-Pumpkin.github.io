@@ -2,7 +2,7 @@
 pageClass: home-page
 
 name: Xinyi Zhao
-profile: /profile.jpg
+profile: /profile2.JPG
 
 socials:
   - title: github
@@ -10,10 +10,10 @@ socials:
     link: https://github.com/Hide-A-Pumpkin
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/%E5%BF%83%E6%80%A1-%E8%B5%B5-572ba8228
   - title: instagram
     icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.instagram.com/mikasa_jam/
 
 cv: /projects/cv_xinyi_9.17.pdf
 bio: Undergraduate Student at Fudan University
@@ -29,12 +29,6 @@ I attended [Fudan University](https://www.fudan.edu.cn/) in Shanghai to study da
 I'm now in FDUVIS lab supervised by Siming Chen and other professors. My research area includes data visualization and intelligent interaction.
 
 
-## News
-
-- [Sept 2022] Paper FFDAugmentor accepted for ACCV2022!
-- [Sept 2019] Attended Fudan University
-
-
 ## Education & Experiences
 
 - **School of Data Science, Fudan University** <br/>
@@ -43,16 +37,15 @@ Sept 2019 - June 2023
 
 ## Projects
 
-
 [→ Full list](/projects/)
 
 <ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
 **Human Computer Interaction Research Project**
 
  Advisor: Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU
- 
- Built an interaction interface presenting students’ problem-solving processes, including hint-asking behaviors.
- Conducted a within-subject user study with math teachers to derive data insights for improving intelligent tutors.
+
+ We hope to explore  teacher behaviors to help improve intelligent tutor systems. We built an interaction interface presenting students’ problem-solving processes, including hint-asking behaviors to help teachers understand student process of solving problems.
+ Then we conducted a within-subject user study with math teachers to derive data insights for improving intelligent tutors.
  Paper submitted and under censoring for CHI 2023 as the second author.
 
 [pdf]
@@ -63,9 +56,9 @@ Sept 2019 - June 2023
 **Human Computer Interaction Intern**
 
   Advisor: Vincent Aleven, Professor, Human-Computer Interaction Institute, CMU
- 
-  Helped build a web-based intelligent tutoring tool which provides step-wise, personalized and immediate feedback based on a cognitive model for students.
-  Built an editor with formula matcher for student input and bound skills with each interaction
+
+ I worked as summer intern in the group. I  helped build a web-based intelligent tutoring tool which provides step-wise, personalized and immediate feedback based on a cognitive model for students.
+  Specially, I built an editor with formula matcher for student input and bound skills with each interaction
 
 [pdf]
 
@@ -75,9 +68,9 @@ Sept 2019 - June 2023
 **Deep Learning Research Project**
 
   Advisor: Yanwei Fu, Professor, School of Data Science, Fudan University
- 
-  Built a neural network framework for few-shot oracle character recognition problems.
-  Applied non-rigid transformation as a data augmentation method for our training and reached a significant increase of accuracy through comprehensive experiments.
+
+ This was the final project task of Deep Learning and Neural Network. I  built a neural network framework for few-shot oracle character recognition problems with my teammate.
+ We applied non-rigid transformation as a data augmentation method for our training and reached a significant increase of accuracy through comprehensive experiments.
   Paper accepted for ACCV2022 as the lead author.
 
 [pdf]
@@ -88,9 +81,8 @@ Sept 2019 - June 2023
 **Data Visualization Research Project**
 
   Advisor: Siming Chen, Professor, School of Data Science, Fudan University
- 
-  Independently researched on 3D point cloud segmentation, built a system for interactive point cloud labeling combined with default labeling using deep learning method.
-  Proposed an innovative interactive labeling method using SVM, density-based clustering and Fitts's law.
+
+ The first formal research experience in my school. I independently researched on 3D point cloud segmentation, built a system for interactive point cloud labeling combined with default labeling using deep learning method. After that, I proposed an innovative interactive labeling method using SVM, density-based clustering and Fitts's law.
 
 [pdf]
 
