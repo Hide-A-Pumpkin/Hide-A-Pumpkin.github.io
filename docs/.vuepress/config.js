@@ -2,7 +2,7 @@ module.exports = {
   title: " Xinyi Zhao",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/docs/",
+  base: "/",
   dest: "./dist",
 
   themeConfig: {

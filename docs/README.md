@@ -2,7 +2,7 @@
 pageClass: home-page
 
 name: Xinyi Zhao
-profile: /profile2.JPG
+profile: /profile2.jpg
 
 socials:
   - title: github
