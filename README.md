@@ -1,6 +1,6 @@
 # Home Page
 
-My profile is deployed [here](https:\\HIDE-A-PUMPKIN.github.io).
+My profile is deployed [here](https://HIDE-A-PUMPKIN.github.io).
 
 
 
