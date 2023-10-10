@@ -2,7 +2,7 @@
 pageClass: home-page
 
 name: Xinyi Zhao
-profile: /profile2.jpg
+profile: /headshot.jpg
 
 socials:
   - title: github
@@ -10,34 +10,50 @@ socials:
     link: https://github.com/Hide-A-Pumpkin
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com/in/%E5%BF%83%E6%80%A1-%E8%B5%B5-572ba8228
+    link: https://www.linkedin.com/in/xinyizhao3274
   - title: instagram
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com/mikasa_jam/
 
-cv: /projects/cv_xinyi_9.17.pdf
-bio: Undergraduate Student at Fudan University
-email: zxy1337445805 (at) gmail (dot) com
+cv: /projects/resume_sde.pdf
+bio: Master of Data Science at Columbia University
+email: xz3274 (at) columbia (dot) edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Fudan University](https://www.fudan.edu.cn/) in Shanghai to study data science.
+I am an in-coming master student majoring Data Science at [Columbia University](https://datascience.columbia.edu). 
+I attended [Fudan University](https://www.fudan.edu.cn/) in Shanghai studying data science and big data technology.
 
-I'm now in FDUVIS lab supervised by Siming Chen and other professors. My research area includes data visualization and intelligent interaction.
+I am extremely passionate about the field of data science.I have more than 3 years of experience in data analysis and in the field of machine learning and deep learning. My teammates and colleagues consider me as a motivating and proactive person throughout my journey at Columbia University and Fudan University. I am looking for an opportunity in the above fields and can be reached at xz3274@columbia.edu.
+
 
 
 ## Education & Experiences
 
+- **Data Science Institute, Columbia University**<br/>
+September 2023 - December 2024
 - **School of Data Science, Fudan University** <br/>
-Sept 2019 - June 2023
+September 2019 - June 2023
 
 
 ## Projects
 
 [→ Full list](/projects/)
+
+<ProjectCard image="/projects/fastspeech.png" hideBorder=true>
+**Machine Learning Engineering Intern**
+
+ Advisor: Minchuan Chen, Senior Machine Learning Engineer, Pingan Technology
+
+During the internship, I actively participated in tasks related to speech synthesis. I did extensive research and worked with advanced TTS models like PITS, FastSpeech2, HifiGAN, FastPitch, VITS, Tacotron, and LPCNet. My focus was on improving voice cloning quality, supporting multiple languages, and accommodating multiple speakers. I refined models, fine-tuned synthesis models, and conducted audio quality checks. Achievements include implementing VITS-based speech cloning, Tacotron+lpcnet, and FastSpeech2+HiFiGAN and improved Mean Opinion Score by over 0.2. I plan to enhance audio evaluation and improve naturalness in synthesized speech in the future work.
+
+
+
+</ProjectCard>
+
 
 <ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
 **Human Computer Interaction Research Project**
@@ -71,7 +87,8 @@ Sept 2019 - June 2023
 
  This was the final project of Deep Learning and Neural Network(DATA130011.01, School of Data Science, Fudan University.). In the project I built a neural network framework for few-shot oracle character recognition problems with my teammate.
  We applied non-rigid transformation as a data augmentation method for our training and reached a significant increase of accuracy through comprehensive experiments.
- We extended the augmentation method to sketch recognition problems and contributed our work to ACCV2022. Paper accepted for ACCV2022 as the lead author.
+ We extended the augmentation method to sketch recognition problems.
+ Paper accepted for ACCV2022 as the lead author.
 
 <!-- [pdf] -->
 
@@ -92,8 +109,17 @@ Sept 2019 - June 2023
 ## Awards & Honors
 
 ### Contests
+- China VIS Challenge 2022 Best Project Nomination
+
+### Scholarships
+- Fudan University Outstanding Graduate Scholarship [2023]
+- Huawei Cloud Scholarship [2022]
 - Fudan University Undergraduate Scholarships [2020, 2021, 2022]
-- Nomination Award in China VIS Challenge 2022
+
+
+## Services
+### Review
+- VIS 2023, Visual Informatics 2023, China VIS 2022
 
 <!-- Custom style for this page -->
 
