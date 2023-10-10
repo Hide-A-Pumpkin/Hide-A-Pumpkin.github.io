@@ -6,3 +6,4 @@ vuepress
 TODOs.md
 dist
 deploy
+node_modules
