@@ -39,8 +39,8 @@ Sept 2019 - June 2023
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
-**Human Computer Interaction Research Project**
+<ProjectCard image="/projects/eqlens.jpg" hideBorder=true to="/article/meng/">
+[**Data Visualization Research Project**](/article/meng/)
 
  Advisor: Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU
 
@@ -52,8 +52,8 @@ Sept 2019 - June 2023
 
 </ProjectCard>
 
-<ProjectCard image="/projects/ctat.jpg" hideBorder=true>
-**Human Computer Interaction Intern**
+<ProjectCard image="/projects/ctat.jpg" hideBorder=true to="/article/vc/">
+[**Human Computer Interaction Intern**](/article/vc/)
 
   Advisor: Vincent Aleven, Professor, Human-Computer Interaction Institute, CMU
 
@@ -64,35 +64,39 @@ Sept 2019 - June 2023
 
 </ProjectCard>
 
-<ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true>
-**Deep Learning Research Project**
+<ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true to="/article/nn/">
+[**Deep Learning Research Project**](/article/nn/)
 
   Advisor: Yanwei Fu, Professor, School of Data Science, Fudan University
 
- This was the final project of Deep Learning and Neural Network(DATA130011.01, School of Data Science, Fudan University.). In the project I built a neural network framework for few-shot oracle character recognition problems with my teammate.
+ This was the final project of Deep Learning and Neural Network(DATA130011.01, Fudan University). I built a neural network framework for few-shot oracle character recognition problems with my teammate.
  We applied non-rigid transformation as a data augmentation method for our training and reached a significant increase of accuracy through comprehensive experiments.
- We extended the augmentation method to sketch recognition problems and contributed our work to ACCV2022. Paper accepted for ACCV2022 as the lead author.
+ We extended the augmentation method to sketch recognition problems. Paper accepted for ACCV2022 as the lead author.
 
-<!-- [pdf] -->
+[link](https://openaccess.thecvf.com/content/ACCV2022/html/Zhao_FFD_Augmentor_Towards_Few-Shot_Oracle_Character_Recognition_from_Scratch_ACCV_2022_paper.html)
+[code](https://github.com/Hide-A-Pumpkin/FFDAugmentor)
 
 </ProjectCard>
 
-<ProjectCard image="/projects/onelabeler.jpg" hideBorder=true>
-**Data Visualization Research Project**
+<ProjectCard image="/projects/onelabeler.jpg" hideBorder=true to="/article/one/">
+[**Data Visualization Research Project**](/article/one/)
 
   Advisor: Siming Chen, Professor, School of Data Science, Fudan University
 
  The first formal research experience in my school. I independently researched on 3D point cloud segmentation, I built a system for interactive point cloud labeling combined with default labeling using deep learning method. The system supports annotating autonomous driving data with over 100k points and explores user interaction behavior. I proposed an innovative interactive labeling method using SVM, density-based clustering and Fitts's law. The annotation time was greatly saved under the new method.
 
-<!-- [pdf] -->
 
 </ProjectCard>
 
+## Services
+**Reviewing:** IEEE PacificVis(2023)
 
 ## Awards & Honors
 
-### Contests
+### Honors
 - Fudan University Undergraduate Scholarships [2020, 2021, 2022]
+
+### Contests
 - Nomination Award in China VIS Challenge 2022
 
 <!-- Custom style for this page -->
@@ -114,6 +118,8 @@ Sept 2019 - June 2023
     margin-top 0.5rem
   .theme-default-content:not(.custom) > h3
     padding-top 4rem
+
+
 
   /* Override */
   .md-card

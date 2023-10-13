@@ -1,6 +1,6 @@
 module.exports = {
   title: " Xinyi Zhao",
-  description: "The description of the site.",
+  description: "Life is always an adventure and a fun exploration into this remarkable place we call earth.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
   dest: "./dist",

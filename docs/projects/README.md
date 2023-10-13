@@ -8,8 +8,8 @@ Here are some works of mine! :books:
 
 ## Projects
 
-<ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
-**Human Computer Interaction Research Project**
+<ProjectCard image="/projects/eqlens.jpg" hideBorder=true to="/article/meng/">
+[**Human Computer Interaction Research Project**](/article/meng/)
 
  Advisor: Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU
 
@@ -21,8 +21,8 @@ Here are some works of mine! :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/ctat.jpg" hideBorder=true>
-**Human Computer Interaction Intern**
+<ProjectCard image="/projects/ctat.jpg" hideBorder=true to="/article/vc/">
+[**Human Computer Interaction Intern**](/article/vc/)
 
   Advisor: Vincent Aleven, Professor, Human-Computer Interaction Institute, CMU
 
@@ -33,8 +33,8 @@ Here are some works of mine! :books:
 
 </ProjectCard>
 
-<ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true>
-**Deep Learning Research Project**
+<ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true to="/article/nn/">
+[**Deep Learning Research Project**](/article/nn/)
 
   Advisor: Yanwei Fu, Professor, School of Data Science, Fudan University
 
@@ -43,11 +43,13 @@ Here are some works of mine! :books:
  We extended the augmentation method to sketch recognition problems and contributed our work to ACCV2022. Paper accepted for ACCV2022 as the lead author.
 
 <!-- [pdf] -->
+[link](https://openaccess.thecvf.com/content/ACCV2022/html/Zhao_FFD_Augmentor_Towards_Few-Shot_Oracle_Character_Recognition_from_Scratch_ACCV_2022_paper.html)
+[code](https://github.com/Hide-A-Pumpkin/FFDAugmentor)
 
 </ProjectCard>
 
-<ProjectCard image="/projects/onelabeler.jpg" hideBorder=true>
-**Data Visualization Research Project**
+<ProjectCard image="/projects/onelabeler.jpg" hideBorder=true to="/article/one/">
+[**Data Visualization Research Project**](/article/one/)
 
   Advisor: Siming Chen, Professor, School of Data Science, Fudan University
 
@@ -55,11 +57,14 @@ Here are some works of mine! :books:
 
 <!-- [pdf] -->
 
+
+
 </ProjectCard>
 
 <style lang="stylus">
 
 .projects-page
   background-color #fafbfc
+  
 
 </style>

@@ -8,7 +8,7 @@ My profile is deployed [here](https://HIDE-A-PUMPKIN.github.io).
 
 Or download the code.
 
-Make sure you have [Node.js](https://nodejs.org/) and [yarn](https://yarnpkg.com/) installed.
+Make sure you have [Node.js](https://nodejs.org/) or [yarn](https://yarnpkg.com/) installed.
 
 ```shell
 npm install

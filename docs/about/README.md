@@ -29,7 +29,7 @@ I'm now in FDUVIS lab supervised by Siming Chen and other professors. My researc
 <style lang="stylus">
 
 .theme-container.about-page .page
-  background-color #EAC3AD
+  background-color #FDF0E9
   min-height calc(100vh)
   
   .last-updated

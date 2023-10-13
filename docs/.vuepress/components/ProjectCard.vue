@@ -1,7 +1,10 @@
 <template>
   <div class="md-card" :class="{ 'show-border': !hideBorder}">
     <div v-if="image" class="card-image">
-      <img :src="$withBase(image)" alt="">
+      <!-- <img :src="$withBase(image)" alt="" :href="to"> -->
+      <a :href="to" target="_self">
+        <img :src="$withBase(image)" alt="">
+      </a>
     </div>
     <div class="card-content">
       <slot></slot>
@@ -11,7 +14,7 @@
 
 <script>
 export default {
-  props: ['image', 'hideBorder']
+  props: ['image', 'hideBorder','to']
 };
 </script>
 
@@ -21,7 +24,7 @@ export default {
 .md-card
   background-color $frontColor
   margin-top 1em
-  min-height 150px
+  min-height 200px
   display flex
   flex-direction row
   align-items: stretch
@@ -30,9 +33,9 @@ export default {
     align-items center
     padding 0.5rem
     img 
-      max-width 150px
-      max-height 150px
-      height 150px
+      max-width 200px
+      max-height 200px
+      height 200px
       border: 1px solid #eee;
       border-radius 0.2rem
       object-fit cover
@@ -45,6 +48,10 @@ export default {
       -webkit-margin-after 0.5em
     blockquote 
       font-size 1rem
+    a
+      color black
+.markdown-block a 
+  color: red 
 
 .md-card.show-border
   border 1px solid #eee

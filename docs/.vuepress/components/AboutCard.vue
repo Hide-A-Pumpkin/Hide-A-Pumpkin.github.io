@@ -24,6 +24,11 @@
           {{data.interests}}
         </span>
       </div>
+      <!-- <div class="motto">
+        <span>
+          {{data.motto}}
+        </span>
+      </div> -->
       <div class="socials">
         <div v-for="item in data.socials">
           <a :href="item.link" target="_blank">
@@ -112,6 +117,9 @@ export default {
             font-weight normal
 
     .interests
+      padding 1em 1.5em
+      border-top 1px solid rgba(34,36,38,.1)
+    .motto
       padding 1em 1.5em
       border-top 1px solid rgba(34,36,38,.1)
     .socials
