@@ -106,13 +106,20 @@ During the internship, I actively participated in tasks related to speech synthe
 </ProjectCard>
 
 ## Services
-**Reviewing:** IEEE PacificVis(2023)
+### Review:
+
+IEEE VIS(2023), Visual Informatics(2023), China Vis(2022), IEEE PacificVis(2022)
 
 ## Awards & Honors
 
 ### Contests
+- China VIS Challenge 2022 Best Project Nomination
+
+### Scholarships
+- Fudan University Outstanding Graduate Scholarship [2023]
+- Huawei Cloud Scholarship [2022]
 - Fudan University Undergraduate Scholarships [2020, 2021, 2022]
-- Nomination Award in China VIS Challenge 2022
+
 
 <!-- Custom style for this page -->
 

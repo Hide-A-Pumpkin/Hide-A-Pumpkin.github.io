@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^2.0.1",
+    "vue-server-renderer": "^2.7.10",
     "vuepress": "^1.9.10",
     "vuepress-plugin-core-video-player": "^1.1.0"
   },
