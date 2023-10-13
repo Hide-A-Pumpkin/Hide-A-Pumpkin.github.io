@@ -19,7 +19,7 @@ During the internship, I actively participated in tasks related to speech synthe
 
 </ProjectCard>
 
-<ProjectCard image="/projects/eqlens.jpg" hideBorder=true>
+<ProjectCard image="/projects/eqlens.jpg" hideBorder=true to="/article/meng/">
 **Explanatory Data Visualization Research Project**
 
  Advisor: Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU

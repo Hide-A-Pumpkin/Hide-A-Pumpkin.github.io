@@ -56,7 +56,7 @@ During the internship, I actively participated in tasks related to speech synthe
 
 
 <ProjectCard image="/projects/eqlens.jpg" hideBorder=true to="/article/meng/">
-[**Data Visualization Research Project**](/article/meng/)
+[**Explanatory Data Visualization Research Assistant**](/article/meng/)
 
  Advisor: Meng Xia, Postdoctoral Faculty, Human-Computer Interaction Institute, CMU
 
@@ -81,7 +81,7 @@ During the internship, I actively participated in tasks related to speech synthe
 </ProjectCard>
 
 <ProjectCard image="/projects/FFDAugmentor.jpg" hideBorder=true to="/article/nn/">
-[**Deep Learning Research Project**](/article/nn/)
+[**Deep Learning Research Assistant**](/article/nn/)
 
   Advisor: Yanwei Fu, Professor, School of Data Science, Fudan University
 
@@ -96,7 +96,7 @@ During the internship, I actively participated in tasks related to speech synthe
 </ProjectCard>
 
 <ProjectCard image="/projects/onelabeler.jpg" hideBorder=true to="/article/one/">
-[**Data Visualization Research Project**](/article/one/)
+[**Data Visualization Research Assistant**](/article/one/)
 
   Advisor: Siming Chen, Professor, School of Data Science, Fudan University
 
